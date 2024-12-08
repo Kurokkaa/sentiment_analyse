@@ -1,0 +1,5 @@
+nltk
+textblob
+scikit-learn
+matplotlib
+wordcloud
